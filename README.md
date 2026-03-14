@@ -19,10 +19,15 @@ B.Tech Computer Science & Engineering
 ## Contest
 
 **Contest Name:** Logic Loot
+
 **Organized By:** FOSS-PTU
+
 **Platform:** HackerRank
+
 **Date:** 9 March 2026
+
 **Time:** 10:00 AM – 01:00 PM
+
 **Role:** Problem Author
 
 **Contest Link:**
