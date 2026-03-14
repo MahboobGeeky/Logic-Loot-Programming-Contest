@@ -36,45 +36,11 @@ Namaste Duniya
 
 ---
 
-## Solution
+## Approach
 
-### Python
-```python
-print("Namaste Duniya")
-```
-
-### C
-```c
-#include <stdio.h>
-int main() {
-    printf("Namaste Duniya\n");
-    return 0;
-}
-```
-
-### C++
-```cpp
-#include <iostream>
-using namespace std;
-int main() {
-    cout << "Namaste Duniya" << endl;
-    return 0;
-}
-```
-
-### Java
-```java
-public class Solution {
-    public static void main(String[] args) {
-        System.out.println("Namaste Duniya");
-    }
-}
-```
-
-### JavaScript
-```javascript
-console.log("Namaste Duniya");
-```
+1. No input is needed — just directly print the string.
+2. Use your language's built-in print/output function.
+3. Make sure the string is exactly `Namaste Duniya` — capital **N** and **D**, with a single space in between.
 
 ---
 
