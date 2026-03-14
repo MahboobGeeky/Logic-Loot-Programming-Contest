@@ -35,6 +35,14 @@ https://www.hackerrank.com/logic-loot
 
 The contest consists of multiple **DSA-based problems** designed to test algorithmic thinking, problem-solving ability, and knowledge of core data structures.
 
+## Contest Screenshot
+
+Below is a screenshot of the **Logic Loot** contest hosted on HackerRank.
+
+![Logic Loot HackerRank Contest]()
+
+
+
 ---
 
 ## Repository Structure
