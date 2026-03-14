@@ -1,49 +1,58 @@
-# Namaste Duniya
+# Notebook Pages
 
 ## Problem Statement
 
-Write a program to print `Namaste Duniya`.
+A student is preparing for exams and buys notebooks.
+Each notebook contains **40 pages**.
+Given the number of notebooks the student buys, calculate and print the total number of pages.
 
 ---
 
 ## Input Format
 
-There is no input required for this problem.
+A single integer `N` → the number of notebooks purchased.
 
 ---
 
 ## Constraints
 
-- The output must exactly match `Namaste Duniya`
-- The output is **case-sensitive**
-- There must be a single space between the two words
+- 1 ≤ N ≤ 100
 
 ---
 
 ## Output Format
 
-Print the string:
+Print a single integer representing the total number of pages.
+
+---
+
+## Sample Input 0
 ```
-Namaste Duniya
+3
+```
+## Sample Output 0
+```
+120
 ```
 
 ---
 
-## Sample Output
+## Sample Input 1
 ```
-Namaste Duniya
+5
+```
+## Sample Output 1
+```
+200
 ```
 
 ---
 
-## Approach
-
-1. No input is needed — just directly print the string.
-2. Use your language's built-in print/output function.
-3. Make sure the string is exactly `Namaste Duniya` — capital **N** and **D**, with a single space in between.
-
----
-
-## Notes
-
-> "Namaste Duniya" is the Hindi equivalent of "Hello World" — a classic beginner program to get started with any programming language.
+## Sample Input 2
+```
+10
+```
+## Sample Output 2
+```
+400
+```
