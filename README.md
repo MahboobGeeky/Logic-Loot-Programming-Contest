@@ -2,14 +2,13 @@
 
 This repository contains algorithmic problems authored by **Mahboob Alam** for the **Logic Loot Programming Contest**.
 
-The problems focus on **Data Structures and Algorithms (DSA)** and were designed for competitive programming practice. Each problem includes the full statement, constraints, test cases, and a reference solution implemented in **C++**.
+The problems focus on **Data Structures and Algorithms (DSA)** and were designed for competitive programming practice. Each problem includes the full statement, constraints, organized test cases, and a reference solution implemented in **C++**.
 
 ---
 
 ## Author
 
 **Mahboob Alam**
-
 B.Tech Computer Science & Engineering
 
 * Problem Author for Logic Loot Contest
@@ -40,17 +39,30 @@ logic-loot-contest-problems
 ├── Problem-A
 │   ├── problem.md
 │   ├── solution.cpp
-│   ├── testcases.txt
+│   ├── testcases
+│   │   ├── input
+│   │   │   ├── input1.txt
+│   │   │   ├── input2.txt
+│   │   │   └── ...
+│   │   │
+│   │   └── output
+│   │       ├── output1.txt
+│   │       ├── output2.txt
+│   │       └── ...
 │
 ├── Problem-B
 │   ├── problem.md
 │   ├── solution.cpp
-│   ├── testcases.txt
+│   ├── testcases
+│   │   ├── input
+│   │   └── output
 │
 ├── Problem-C
 │   ├── problem.md
 │   ├── solution.cpp
-│   ├── testcases.txt
+│   ├── testcases
+│   │   ├── input
+│   │   └── output
 │
 └── README.md
 ```
@@ -59,7 +71,10 @@ Each problem folder contains:
 
 * **problem.md** – Full problem statement with constraints and examples
 * **solution.cpp** – Reference solution implementation
-* **testcases.txt** – Sample and edge test cases used for validation
+* **testcases/** – Folder containing organized test cases
+
+  * **input/** – Input files for the test cases
+  * **output/** – Expected output files corresponding to the inputs
 
 ---
 
