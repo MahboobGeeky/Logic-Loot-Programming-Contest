@@ -11,6 +11,7 @@
 Total Pages = N × 40
 ```
 
+
 ## Example
 
 - N = 3 → 3 × 40 = **120**
