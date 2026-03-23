@@ -1,4 +1,5 @@
 # Notebook Pages
+### Problem Link: [Click Here](https://www.hackerrank.com/contests/logic-loot/challenges/notebook-pages)
 
 ## Problem Statement
 

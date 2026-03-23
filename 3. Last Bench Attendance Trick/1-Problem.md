@@ -1,49 +1,63 @@
-# Last Bench Safety Check
+# Midnight Coffee with Mahboob
 
-## Problem Link
-[Click Here](https://www.hackerrank.com/contests/logic-loot/challenges/last-bench-attendance-trick)
+### Problem Link: [Click Here](https://www.example.com)
+
 
 ## Problem Statement
 
-A student sits on the last bench and wants to know if he is safe from attendance checking.
+Late at night, Mahboob is creating problems for the Logic Loot coding contest.
+To stay awake, he drinks coffee. Each cup of coffee gives him some energy.
 
-The teacher checks attendance **only if** the number of students in class **N** is greater than **40**.
+Mahboob drinks **N** cups of coffee, and each cup gives **E** units of energy.
+He wants to create **P** problems, and each problem requires **C** units of energy.
 
-Print:
-- `Attendance Checked` if N > 40
-- `Safe Today` otherwise.
+Your task is to determine whether Mahboob has enough energy to create all the problems.
 
 ## Input Format
 
-A single integer **N**.
+A single line containing four integers: `N E P C`
+
+Where:
+- `N` → number of coffee cups Mahboob drinks
+- `E` → energy gained per cup
+- `P` → number of problems Mahboob wants to create
+- `C` → energy required to create one problem
 
 ## Constraints
 ```
-1 ≤ N ≤ 200
+1 ≤ N, E, P, C ≤ 10⁶
 ```
 
 ## Output Format
 
-Print:
-- `Attendance Checked` if N > 40
-- `Safe Today` otherwise.
+Print `YES` if Mahboob can create all the problems, otherwise print `NO`.
 
 ## Sample Input 0
 ```
-35
+5 6 2 10
 ```
 
 ## Sample Output 0
 ```
-Safe Today
+YES
 ```
 
 ## Sample Input 1
 ```
-41
+10 10 5 10
 ```
 
 ## Sample Output 1
 ```
-Attendance Checked
+YES
+```
+
+## Sample Input 2
+```
+1 5 2 5
+```
+
+## Sample Output 2
+```
+NO
 ```

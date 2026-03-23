@@ -1,4 +1,5 @@
 # Namaste Duniya
+### Problem Link: [Click Here](https://www.hackerrank.com/contests/logic-loot/challenges/namaste-duniya-1)
 
 ## Problem Statement
 
