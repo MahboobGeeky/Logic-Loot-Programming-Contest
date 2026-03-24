@@ -7,8 +7,9 @@ int main() {
 
     int solved[n], friends[n];
 
-    for (int i = 0; i < n; i++) cin>>solved[i];
+    for(int i = 0; i < n; i++) cin>>solved[i];
     for (int i = 0; i < n; i++) cin>>friends[i];
+    for (int i=0; i<n; i++) cin>>friends[i];
 
     int total=0;
 
