@@ -1,6 +1,6 @@
 # Campus Chai Wala
 
-### Problem Link: [Click Here](https://www.example.com)
+### Problem Link: [Click Here](https://www.hackerrank.com/contests/logic-loot/challenges/campus-chai-wala)
 
 ## Problem Statement
 
